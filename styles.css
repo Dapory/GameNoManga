@@ -97,6 +97,7 @@ main.manga-grid {
 
 .manga-item h3 {
     margin-top: auto;
+    margin-top: 10px;
     margin-bottom: 10px;
     font-size: 1em;
     padding: 0 10px;
